@@ -1,0 +1,32 @@
+.menu1{
+	background: #f1f1f1;
+	width: 170px;
+	height: 560px;
+	border: 7px solid #416484;
+	border-radius: 7px;
+}
+
+.menu {
+	List-style-type: none;
+	padding: 10px;
+}
+
+li {
+	border-bottom: 1px solid #dadada;
+	padding: 3px;
+}
+
+.box {
+	width: 20px;
+	height: 15px;
+	background: #6fc2ee;
+	text-align: center;
+	float: right;
+	color: #d4ffff;
+	font-size: 10px;
+}
+
+li div {
+	margin-top: 7px;
+}
+

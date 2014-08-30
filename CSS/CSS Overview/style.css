@@ -1,0 +1,27 @@
+body {
+	background: #a9a9a9;
+}
+
+h1 {
+	color: #fafad2;
+}
+
+a {
+	color:#ffffff;
+}
+
+div,nav, .last{
+	text-align:center;
+}
+
+ul {
+	list-style-type:none;
+}
+
+.current {
+	background: #d3d3d3;
+}
+.first, .current, .third {
+	text-decoration:none
+}
+

@@ -1,0 +1,35 @@
+table th {
+	width: 130px;
+	text-align: left;
+	background: #52b506;
+	color: white;
+	padding: 5px;
+}
+
+table td {
+	color: grey;
+	font-weight:bold;
+	padding: 5px;
+}
+
+img {
+	height: 15px;
+	width: 25px;
+}
+
+tr .first {
+	background: #ffffff;
+}
+
+tr.second {
+	background: #ececd8;
+}
+
+tr .third {
+	background: #ffffff;
+}
+
+
+tr.forth {
+	background: #ececd8;
+}

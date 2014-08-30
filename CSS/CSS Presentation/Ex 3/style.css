@@ -1,0 +1,108 @@
+.content {
+	background: #bbdcfb;
+	width: 400px;
+	height: 430px;
+}
+
+.program {
+	border: 1px solid #778997;
+	background: #d7e3ef;
+	margin: 5px;
+	height: 385px;
+	
+}
+
+.head {
+	background: #dadcf1;
+	border-bottom: #c1c5d1;
+}
+
+.pole {
+	width: 365px;
+	height: 50px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	font-size: 20px;
+	text-align: right;
+	background: #e5effb;
+	border: 1px solid #a6adb7;
+	border-radius: 3px;
+}
+
+.table {
+	width: 364px;
+	height: 100px;
+	margin-top: 5px;
+	margin-left: 10px;
+	font-size: 20px;
+	background: #d8e4f0;
+	border: 1px solid #a6adb7;
+	border-radius: 3px;
+}
+
+.table  td {
+	margin-left: 10px;
+	width: 110px;
+}
+
+.table table td{
+	border-spacing: 0px;	
+}
+
+span {
+padding-left: 5px;
+}
+
+.radio1 {
+	border: 1px solid #a6adb7;
+	margin: 10px;
+	width: 70px;
+	height: 85px;
+	border-radius: 3px;
+}
+
+.butt {
+	width: 325px;
+	height: 192px;
+	position: relative;
+	top: -196px;
+	left: 88px;
+	margin: 0px;
+}
+
+.butt table td {
+	border: 1px solid #a6adb7;
+	width: 30px;
+	height: 29px;
+	font-size: 15px;
+	color: #2f3e51;
+	text-align: center;
+	border-radius: 3px;
+}
+
+.white {
+	background: #f2f7f6;
+}
+
+.yellow {
+	background: #fcefaa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

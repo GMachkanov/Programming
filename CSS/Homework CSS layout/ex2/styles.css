@@ -1,0 +1,46 @@
+﻿.wrap {
+    background-color:#eeeeee;
+    border-radius:5px;
+    width: 400px;
+    height: 500px;
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+content {
+    display:block;
+    background-color: #ffffff;
+    border:1px solid #a6a6a5 ;
+    width: 380px;
+    height: 120px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:0;
+}
+
+img {
+    float:left;
+    margin: 15px;
+    border: 1px solid #a6a6a5 ;
+}
+
+.buttons {
+    float:right;
+    margin: 0px 10px 5px 0px;
+}
+
+button {
+    margin: 0px;
+    color: white;
+    background:url(butt.png) repeat-y;
+    border:none;
+}
+
+
+
+span {
+    margin-top:15px;
+    display:block;
+    font-size: 0.9em;
+}

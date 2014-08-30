@@ -1,0 +1,28 @@
+div {
+	border: 8px solid #7f7f7f;
+	background: #f1f1f1 ;
+	width: 500px;
+	height: 100px;
+	border-radius: 5px;
+}
+
+.menu {
+	padding: 0px;
+	margin: 0px;
+	background-color: ;
+}
+
+li {
+	float: left;
+	padding: 10px;
+	margin: 5px;
+	border-right: 1px solid #cccccc;
+}
+
+.bord {
+	float: left;
+	padding: 10px;
+	margin: 5px;
+	border: none;
+}
+

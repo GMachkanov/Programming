@@ -1,0 +1,56 @@
+table {
+		border: 7px dashed #fafac4;
+		padding: 0px;
+		margin: opx;
+		border-spacing:0px;
+}
+
+table td {
+	margin: 0px;
+	padding: 5px;
+	background-color: grey;
+	border: 1px solid grey;
+}
+
+img {
+	width: 15px;
+	height: 15px;
+}
+
+td.item {
+   font-style: italic;
+}
+
+td.td1 {
+	font-style: italic; color: white; 
+}
+
+
+td.p1 {
+	color: yellow; 
+}
+
+span {
+	color: red;
+}
+
+td.seidel {
+	color: yellow;
+}
+
+td.hours {
+	color: lightblue;
+}
+
+td.never {
+	color: lightblue;
+}
+
+span.link {
+	color: yellow;
+}
+
+td.not {
+	color: orange;
+}
+

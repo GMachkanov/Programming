@@ -1,0 +1,32 @@
+﻿ul {
+    list-style-type: none;
+}
+
+
+ul li ul  {
+    display:none;
+}
+
+ul li:hover ul  {
+    display:block;
+}
+
+li:hover . current{
+    text-decoration:underline;
+}
+
+ul li ul li {
+    text-decoration:none;
+    list-style-type: none;
+    color: grey;
+}
+
+
+
+ul li:hover ul li ul  {
+    display:none;
+}
+
+ul li ul li:hover ul {
+    display:block;
+}
